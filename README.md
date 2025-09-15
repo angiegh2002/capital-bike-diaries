@@ -1,10 +1,5 @@
 # Capital Bike Share Diaries: Data Analysis Project
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Pandas](https://img.shields.io/badge/Pandas-%E2%89%A51.3-green)
-![Plotly](https://img.shields.io/badge/Plotly-%E2%89%A55.0-orange)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-%E2%89%A50.10-brightgreen)
-
 A comprehensive data analysis of bike-sharing systems in Washington, D.C., using Capital Bike Share trip data. This project explores usage patterns, weather impacts, station distribution, user behavior, and builds a time series forecasting model for daily revenue.
 
 ## 📌 Objectives
